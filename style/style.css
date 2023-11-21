@@ -18,13 +18,14 @@ html {
     gap: 15px;
 }
 
-.wrapper h1 {
+.title {
     font-size: 90px;
     line-height: 98px;
     color: white;
+    user-select: none;
 }
 
-.wrapper span {
+.icon {
     font-size: 130px;
     line-height: 138px;
     color: #ffe000;
